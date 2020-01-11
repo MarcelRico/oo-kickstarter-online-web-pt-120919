@@ -12,6 +12,4 @@ class Backer
     project_obj.backers << self
   end
   
-  def add_backer
-  
 end
